@@ -2,3 +2,5 @@ sinceramente no se que va aqui, pero hola soy bryan, test trigueño ojos color m
 inicie copiando el index y style que se me ofrecio
 yo tendre que hacer el app
 entre a los videos de logica de programacion donde se conecta el java con el html y le cambie de nombre al titulo y a la caja de pregunta
+
+tambien cambie el nombre del boton naranja y probe si los botones funcionaban con un "alert"
