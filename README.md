@@ -9,3 +9,9 @@ en cada boton le agregue una funcion para que el reto se ejecute
 tambien en el segundo titulo lo modifique para que aparezcan los nombres de los amigos sorteados
 y cuando acabe sale "acabo el sorteo"
 utilice varios "function, console y algunos let" y unos condicionales como "if y else" 
+
+
+PARA UTILIZAR ...
+solo se debe colocar los nombres a sortear presionando en "añadir"
+luego presiona el boton del sorteo y le iran saliendo los nombres colocados anteriormente justo por encima de la cajita
+hasta acabar los nombres
